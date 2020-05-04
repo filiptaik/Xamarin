@@ -1,0 +1,15 @@
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\bin\Debug\netstandard2.0\DemoApp.deps.json
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\bin\Debug\netstandard2.0\DemoApp.dll
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\bin\Debug\netstandard2.0\ref\DemoApp.dll
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\bin\Debug\netstandard2.0\DemoApp.pdb
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.csprojAssemblyReference.cache
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\AddPostPage.xaml.g.cs
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.AssemblyInfoInputs.cache
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.AssemblyInfo.cs
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.dll
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\ref\DemoApp.dll
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.pdb
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.csproj.CoreCompileInputs.cache
+D:\Users\F I L I P\Documents\GitHub\Xamarin\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\XamlC.stamp
